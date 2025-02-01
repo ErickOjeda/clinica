@@ -1,6 +1,10 @@
 # Projeto Clínica - API
 
-Este projeto consiste em uma API desenvolvida para gerenciar uma clínica. Foi utilizado Laravel Sail em seu desenvolvimento.
+Este projeto consiste em uma API desenvolvida para gerenciar uma clínica. 
+
+## Laravel Sail
+
+Foi utilizado Laravel Sail no desenvolvimento dessa API para um ambiente de desenvolvimento mais consistente
 
 ## Populando o banco
 
